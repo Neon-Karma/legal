@@ -7,6 +7,7 @@ permalink: /terms/
 > **DRAFT**: these terms are under legal review and will be finalized before launch.
 
 **Operator:** [[Company legal name]], [[registered address]] · Contact: [[support@…]]
+
 **Version:** 1 · **Effective date:** [[YYYY-MM-DD]]
 
 ## 1. Agreement

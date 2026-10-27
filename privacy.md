@@ -8,6 +8,7 @@ permalink: /privacy/
 > **DRAFT** — this policy is under legal review and will be finalized before launch.
 
 **Controller:** [[Company legal name]], [[registered address]] · Contact / Data Protection Officer: [[privacy@…]]
+
 **Effective date:** [[YYYY-MM-DD]] · **Version:** 1
 
 ## 1. What we collect
